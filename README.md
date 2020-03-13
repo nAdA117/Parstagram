@@ -22,4 +22,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Gif](parstagram.gif)
+![Gif](https://github.com/nAdA117/Parstagram/blob/master/Parstagram.gif)
